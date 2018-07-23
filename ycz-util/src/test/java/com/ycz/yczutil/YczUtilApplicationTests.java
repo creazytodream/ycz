@@ -1,4 +1,4 @@
-package com.edu.ycz;
+package com.ycz.yczutil;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class YczApplicationTests {
+public class YczUtilApplicationTests {
 
     @Test
     public void contextLoads() {
